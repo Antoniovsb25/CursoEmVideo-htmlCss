@@ -1,0 +1,9 @@
+* {
+    height: 100%;
+}
+
+body {
+    /*background-image: linear-gradient(to top, #38EBCD,#2CB8A0, #4F6C67 );*/
+    background-image: radial-gradient(circle, #38EBCD,#2CB8A0, #197e6d);
+    background-attachment: scroll; 
+}
